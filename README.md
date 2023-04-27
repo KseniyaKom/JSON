@@ -49,5 +49,5 @@ Homework
 ### Save changes within GitHub web interface:
 `Commit changes`
 
-### Synchronize external and local repositories
+### Synchronize external and local repositories:
 `git pull`
