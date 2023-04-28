@@ -8,7 +8,7 @@ Homework
 `git clone (link to repository)`
 
 ### Create a file "new.json" within JSON:
-`cat > new.json`
+`cd JSON / cat > new.json`
 
 ### Add file to Git:
 `git add "new.json"`
@@ -20,19 +20,19 @@ Homework
 `git push`
 
 ### Edit file "new.json" / write personal info (Name, Surname, age, pets, salary) in JSON format:
-`vim "new.json" / :wq`
+`vim "new.json" / insert / esc / :wq`
 
 ### Send changes to an external repository:
 `git add "new.json" / git commit -m "new.json" / git push`
 
 ### Create file "preferences.json":
-`cat > preferences.json`
+`cat > preferences.json / ctrl+c`
 
 ### Edit file "preferences.json" with personal information of favourite film, series, food, season, country to visit in JSON format:
-`vim "preferences.json" / :wq`
+`vim "preferences.json" / insert / esc / :wq`
 
 ### Create file "sklls.json" and add information about studied tools within the Course (in JSON):
-`vim "skills.json" / :wq`
+`vim "skills.json" / insert / esc / :wq`
  
 ### Send both files to an external repository:
 `git add . / git commit -m "preferences/skills" / git push`
